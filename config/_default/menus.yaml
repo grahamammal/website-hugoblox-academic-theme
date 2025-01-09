@@ -11,7 +11,7 @@ main:
     url: /#papers
     weight: 11
   - name: CV
-    url: /uploads/resume.pdf
+    url: /uploads/graham_ellen_cv.pdf
     weight: 12
   # - name: Talks
   #   url: /#talks
